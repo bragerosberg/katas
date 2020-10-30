@@ -1,6 +1,6 @@
 # Katas
 Small algorithms, katas and typical problems.
-The completion is how I would implement the different tasks.
+The completion is my implement on the different tasks.
 
 ### Get in touch with me:
 [<img align="left" style="margin-left: 10px;" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
